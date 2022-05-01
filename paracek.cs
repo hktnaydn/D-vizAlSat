@@ -54,7 +54,7 @@ namespace DövizAlSat
             }
             else if(textBox3.TextLength!=24)
             {
-                MessageBox.Show("İban'ı eksiksiz giriniz");
+                MessageBox.Show("Iban'ı eksiksiz giriniz");
             }
             else if(textBox2.TextLength==0)
             {
